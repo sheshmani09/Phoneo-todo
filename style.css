@@ -56,6 +56,6 @@ li{
 #alltask>h2{
   text-align: center;
 }
-#alltask>ul{
+#task-list {
   list-style: none;
 }
