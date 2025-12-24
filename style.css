@@ -44,10 +44,10 @@ button {
 button:hover{
   background-color: #b80000;
 }
-ul{
+/* ul{
+  list-style: none;
   
-  
-}
+} */
 li{
   font-size: x-large;
   padding: 5px 0;
@@ -55,7 +55,6 @@ li{
 #alltask{
   border: 2px solid black;
   padding: 3px 5px;
-  overflow: auto;
 }
 #alltask>h2{
   text-align: center;
