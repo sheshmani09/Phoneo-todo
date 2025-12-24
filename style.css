@@ -11,7 +11,7 @@ body{
 }
 
 .header{
-  padding: 5%;
+  margin: 5%;
 }
 
 .header h1{
@@ -42,7 +42,6 @@ button {
   position: relative;
 }
 button:hover{
-  /* transition: 0.5s; */
   background-color: #b80000;
 }
 ul{
