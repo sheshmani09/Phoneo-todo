@@ -44,11 +44,7 @@ button {
 button:hover{
   background-color: #b80000;
 }
-ul{
-  list-style: none;
-  overflow-x: auto;
-  
-}
+
 li{
   font-size: x-large;
   padding: 5px 0;
