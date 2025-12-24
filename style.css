@@ -44,9 +44,7 @@ button {
 button:hover{
   background-color: #b80000;
 }
-ul{
-  list-style: none;
-}
+
 li{
   font-size: x-large;
   padding: 5px 0;
@@ -57,4 +55,7 @@ li{
 }
 #alltask>h2{
   text-align: center;
+}
+#alltask>ul{
+  list-style: none;
 }
